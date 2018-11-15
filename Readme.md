@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/T530023/Controllers/HomeController.cs)
+* [UploadControlValidationSettings.cs](./CS/T530023/Models/UploadControlValidationSettings.cs)
+* [_CallbackPanelPartial.cshtml](./CS/T530023/Views/Home/_CallbackPanelPartial.cshtml)
+* [_RichEditPartial.cshtml](./CS/T530023/Views/Home/_RichEditPartial.cshtml)
+* **[Index.cshtml](./CS/T530023/Views/Home/Index.cshtml)**
+<!-- default file list end -->
 # RichEdit - How to upload a file via UploadControl and open it in RichEdit
 
 
